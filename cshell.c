@@ -11,7 +11,7 @@
 #include <limits.h>
 #include <errno.h>
 
-#define CMD_HISTORY_SIZE 10 // 10 most recently typed commands
+#define CMD_HISTORY_SIZE 11 // 10 most recently typed commands
 
 static char * cmd_history[CMD_HISTORY_SIZE];
 static int cmd_history_count = 0;
