@@ -38,8 +38,8 @@ Figure 1: Outline of simple shell.
  
 
 This project is organized into two parts: 
-1. Creating the child process and executing the command in the child, and 
 
+1. Creating the child process and executing the command in the child, and 
 2. Modifying the shell to allow a history feature.
 
 ##Part I— Creating a Child Process
